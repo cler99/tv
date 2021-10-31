@@ -1,130 +1,29 @@
 ###
 {
-  "sites": [       
-    {
-      "key": "快播云",
-      "name": "快播云",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
-    },
-    {
-      "key": "柚子资源",
-      "name": "柚子资源",
-      "type": 0,
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧",
-        "爱情",
-        "科幻",
-        "恐怖",
-        "剧情",
-        "战争",
-        "大陆剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "纪录",
-        "海外剧",
-        "蓝光电影",
-        "蓝光电视剧",
-        "蓝光动漫"
-      ]
-    },
-    {
-      "key": "乐多采集",
-      "name": "乐多采集",
-      "type": 0,
-      "api": "https://cj.leduocaiji.com/inc/api.php",
-      "playUrl": "https://api.xxctzy.com/1.php?vid=",
-      "categories": [
-        "综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港剧",
-        "日剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "其他动漫",
-        "体育赛事",
-        "海外剧",
-        "纪录片",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "动画电影",
-        "篮球",
-        "足球",
-        "网球"
-      ]
-    },
+  "sites": [
         {
-            "key":"csp_ysdq_一只鱼影视",
-            "name":"一只鱼影视(搜)",
+            "key": "极品资源",
+            "name": "极品资源",
             "type": 0,
-		        "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-		        "playUrl": "",
-	        	"categories": []
-        },
-        {
-            "key":"csp_ysdq_追番猫",
-            "name":"追番猫(搜)",
-            "type":0,
-            "api": "http://wmcj8.com/inc/sapi.php",
-		        "playUrl": "",
-		        "categories": []
-        },
-        {
-            "key":"csp_ysdq_追剧吧",
-            "name":"追剧吧(搜)",
-            "type":0,
-            "api": "http://m.7777688.com/inc/api.php",
-	        	"playUrl": "",
-	        	"categories": []
-        },
-        {
-            "key":"csp_ysdq_侦探影视",
-            "name":"侦探影视(搜)",
-            "type":0,
-            "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
-	        	"playUrl": "",
-	        	"categories": []
-        },
-        {
-            "key":"csp_ysdq_追影兔",
-            "name":"追影兔(搜)",
-            "type":0,
-            "api":"https://jialiapi.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-		        "categories": []
+            "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+            "categories": [
+                "动作片",
+"喜剧片",
+"爱情片",
+"科幻片",
+"恐怖片",
+"剧情片",
+"战争片",
+"国产剧",
+"香港剧",
+"韩国剧",
+"欧美剧",
+"日本剧",
+"台湾剧",
+"泰国剧",
+"综艺",
+"动漫"
+            ]
         },
     {
       "key": "快播云",
@@ -149,6 +48,100 @@
         "战争片",
         "纪录片"
       ]
+    },
+    {
+       "key":"csp_ysdq_一只鱼影视",
+       "name":"一只鱼影视(搜)",
+       "type": 0,
+		   "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+		   "playUrl": "",
+	     "categories": []
+    },
+    {
+      "key":"csp_ysdq_追番猫",
+      "name":"追番猫(搜)",
+      "type":0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+	    "playUrl": "",
+		  "categories": []
+    },
+    {
+       "key":"csp_ysdq_追剧吧",
+       "name":"追剧吧(搜)",
+       "type":0,
+       "api": "http://m.7777688.com/inc/api.php",
+	     "playUrl": "",
+	     "categories": []
+    },
+    {
+       "key":"csp_ysdq_侦探影视",
+       "name":"侦探影视(搜)",
+       "type":0,
+       "api": "https://shayuapi.com/api.php/provide/vod/at/xml",
+	    	"playUrl": "",
+	      "categories": []
+    },
+    {
+       "key":"csp_ysdq_追影兔",
+       "name":"追影兔(搜)",
+       "type":0,
+       "api":"https://jialiapi.com/api.php/provide/vod/at/xml",
+       "playUrl": "",
+		   "categories": []
+    },
+    {
+      "key": "adys_spider",
+      "name": "爱迪影视",
+      "type": 2,
+      "api": "48YdXbyTkTe55r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "hgys_spider",
+      "name": "HG影视",
+      "type": 2,
+      "api": "wkjskK5hA6Cxr7",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "zjdr_spider",
+      "name": "追剧达人",
+      "type": 2,
+      "api": "irB66BwzwhbL4r",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "zjm_spider",
+      "name": "追剧喵",
+      "type": 2,
+      "api": "KaxKyHhd9ErA9n",
+      "playUrl": "",
+       "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "xysgc_spider",
+      "name": "新影视工厂",
+      "type": 2,
+      "api": "Gy35wr8J2YUrtC",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "kby_spider",
+      "name": "恐怖鸭",
+      "type": 2,
+      "api": "ZdZYGB9BcfXR6W",
+      "playUrl": "",
+      "quickSearch": 0,
+      "filterable": 1
     },
     {
       "key": "柚子资源",
@@ -231,6 +224,7 @@
         "港台剧",
         "日韩剧",
         "欧美剧",
+        "福利"
       ]
     },
     {
@@ -325,6 +319,8 @@
         "日韩剧",
         "欧美剧",
         "东南亚剧",
+        "论理",
+        "性感",
         "日本动漫",
         "纪录片",
         "国产动漫",
@@ -381,22 +377,10 @@
         "犯罪片",
         "其他片",
         "泰国剧",
+        "论理片"
       ]
     }
   ],
-"parses": [
-  {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-  },
-  {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-  }
- 
-],
   "lives": [
     {
       "group": "自定义",
@@ -947,7 +931,6 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://gitee.com/sharerwtv/mao/raw/master/custom_spider.jar",
   "parses": [
     {
       "name": "暮光解析",
@@ -1362,3 +1345,683 @@
     "cms.qdwght.com"
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
